@@ -1,0 +1,120 @@
+/* Reset CSS (JANGAN DIHAPUS) */
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+}
+
+/* Ketik code Anda dibawah */
+.text {
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 40px;
+  }
+ #atas {
+   margin-top: 33px;
+ }
+
+header {
+  background-color: #26d0c9;
+  color: #fff;
+  width: 100%;
+  height: 90px;
+}
+
+.main {
+  margin-left: 80px;
+  margin-top: 100px;
+}
+
+.main h1 {
+  font-size: 140px;
+}
+
+.main h2 {
+  font-size: 60px;
+}
+
+.warna {
+  color: #ff4a4a;
+}
+
+.konten {
+  margin-left: 80px;
+}
+
+.garis {
+  border: 1px solid #dee7ec;
+  margin-top: 15px;
+  margin-right: 80px;
+  margin-bottom: 50px;
+}
+
+.judul {
+  margin-top: 100px;
+  font-size: 28px;
+  margin-bottom: 15px;
+  clear: both;
+}
+
+.container {
+  float: left;
+  margin-right: 40px;
+  margin-bottom: 100px;
+}
+
+.tulis {
+  margin-top: 30px;
+  font-size: 24px;
+  margin-bottom: 50px;
+}
+
+.form {
+  margin-top: 50px;
+  width: 400px;
+  margin-bottom: 110px;
+}
+
+
+.isian {
+   border: 1px solid #dee7ec;
+margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px 20px 23px 20px;
+  width: 100%;
+  
+
+}
+
+footer {
+  padding: 40px;
+  color:#fff;
+  background-color: #2f5167;
+  height: 120px;
+  
+}
+.kanan {
+  float: right;
+  }
+  
+  .foot {
+    font-size:20px;
+  margin-bottom:20px;
+  }
+  
+  .pro {
+    font-size: 32px;
+    float: left;
+  
+  }
